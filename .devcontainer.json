@@ -1,0 +1,4 @@
+{
+	"dockerFile": "docker/DockerFile",
+	"runArgs": ["--rm"]
+}
