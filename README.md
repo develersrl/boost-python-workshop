@@ -11,7 +11,7 @@ In this repo you'll find all the needed files for my Boost Python webinar and wo
   built and started),
 - open a terminal and run the following commands:
   ```
-  # pip install package/
+  # pip install src/
   # python test/test.py
   ```
 
